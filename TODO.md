@@ -1,0 +1,1 @@
+- [x] Modify the toast in app/link-generator/page.js to include a clickable "View here" link that opens the generated link in a new tab, while keeping the existing "👆 Link copied to clipboard!" text.
